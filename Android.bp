@@ -66,6 +66,7 @@ cc_defaults {
         "-Wno-thread-safety-analysis",
         "-Wno-unused-parameter",
         "-Wno-unused-variable",
+        "-Wno-psabi",
         "-fvisibility=hidden",
     ],
 
